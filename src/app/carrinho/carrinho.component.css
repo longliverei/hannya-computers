@@ -3,6 +3,7 @@
     color: gray;
     font-weight: 700;
     padding: 8px 0;
+    margin: 50px 0;
 }
 
 li {
@@ -10,7 +11,7 @@ li {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 8px;
     overflow: hidden;
-    margin: 10px 0;
+    margin: 100px 0;
     height: 100px;
     align-items: center;
     justify-content: space-between;
@@ -53,7 +54,7 @@ input {
     color: white;
     padding: 10px;
     font-size: 22px;
-    margin-bottom: 10px;
+    margin-bottom: 60px;
     transition: .3s all;
 }
 
@@ -64,5 +65,5 @@ input {
 .no-product {
     text-align: center;
     font-size: 2em;
-    margin: 200px 0px 118px 0px;
+    margin: 200px 0px 260px 0px;
 }
